@@ -2,5 +2,6 @@ server:
   port: 9854
 zuul:
   routes:
-    path: /mobile/**
-      serviceId: mobileService
+    mobile:
+      path: /mobile/**
+        service_id: mobileService
