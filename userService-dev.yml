@@ -3,4 +3,4 @@ db.password: root
 db.username: root
 db.driver-class-name: com.mysql.jdbc.Driver
 
-name: ljj-1
+name: ljj-2
