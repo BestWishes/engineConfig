@@ -1,3 +1,7 @@
 server:
   port: 9854
-
+zuul:
+  routes:
+    mobile:
+      path: /mobile/**
+      service_id: mobileService
