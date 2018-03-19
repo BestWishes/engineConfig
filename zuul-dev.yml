@@ -1,5 +1,5 @@
 server:
-  port: 9854
+  port: 10501
 zuul:
   routes:
     mobile:
