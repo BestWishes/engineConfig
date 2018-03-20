@@ -1,1 +1,3 @@
 name: LJJ-FROM-MOBILE
+server:
+  port: 10301
