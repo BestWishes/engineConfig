@@ -1,5 +1,6 @@
-server:
-  port: 10401
+port1: 10401
+port2: 10402
+port3: 10403
 db.url: jdbc:mysql://127.0.0.1:3306/engine
 db.password: root
 db.username: root
