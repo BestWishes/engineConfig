@@ -4,4 +4,4 @@ zuul:
   routes:
     mobile:
       path: /mobile/**
-      service_id: mobileService
+      service_id: mobile
