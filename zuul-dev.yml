@@ -5,3 +5,7 @@ zuul:
     mobile:
       path: /mobile/**
       service_id: mobile
+    user:
+      path: /user/**
+      service_id: user
+
