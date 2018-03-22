@@ -1,2 +1,4 @@
 server:
   port: 10601
+management:
+  port: 10701
